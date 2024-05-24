@@ -1,0 +1,160 @@
+.div3{
+    width: 50%;
+
+}
+
+.div4{
+    width: 50%;
+
+}
+
+.img{
+    width: 80%;
+}
+
+.img2{
+    width: 100%;
+}
+
+.card-content{
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.nav{
+    display: flex;
+    height: 80px;
+    width: 100%;
+    background-color: rgb(53, 53, 53);
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.logo{
+    color: white;
+    font-size: 35px;
+    font-weight: 600;
+    padding-left: 10px;
+}
+
+
+.list{
+    list-style: none;
+    display: flex;
+}
+
+.list-item{
+    padding: 10px 30px;
+}
+
+.list-item-a{
+    text-decoration: none;  
+    font-size: 20px;
+    color: white;
+    transition: all 0.3s;
+}
+
+
+.jumbotron{
+    padding: 60px 20px;
+    display: flex;
+}
+
+.btn{
+    width: 40%;
+    height: 4vh;
+    border: unset;
+    border-radius: 5px;
+    color: black;
+    background-color: #ffc107;
+}
+
+.h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(37, 37, 37);
+}
+
+.h4{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(37, 37, 37);
+    font-size: x-large;
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+ 
+}
+
+.card{
+    width: 33%;
+    overflow: hidden;
+    border-radius: 1px;
+    margin: 10px;
+    box-shadow: 0px 0px 1px;
+
+}
+
+.text{
+    text-decoration: none;
+    color: rgb(61, 59, 59);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.footer{
+    background-image: url(static/image/map6.jpg);
+}
+
+.footer-div{    
+    display: flex;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.latest-post{
+    width: 33%;
+}
+
+.about{
+    width: 33%;
+}
+
+.handles{
+    width: 33%;
+}
+
+.fa-calendar-days{
+    font-size: 50px;
+    padding-left: 10px;
+}
+
+.fa-twitter{
+    font-size: 20px;
+}
+
+.fa-instagram{
+    font-size: 20px;
+}
+
+
+.fa-facebook{
+    font-size: 20px;
+}
+
+
+.fa-square-google-plus{
+    font-size: 20px;
+}
+
+.fa-phone{
+    font-size: 20px;
+}
+
+.font{
+    font-size: 15px;
+    padding-left: 5px;
+}
+
+
